@@ -7,6 +7,15 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
+.image {
+}
+.placeholder {
+}
+.primary_button {
+  color:#FFFFFF;
+}
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -55,5 +64,20 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
+.arrow {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .table_cell {
+}
+._连接线 {
+}
+.sticky_3 {
+  text-align:left;
+}
+.flow_shape {
 }
