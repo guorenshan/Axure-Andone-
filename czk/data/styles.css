@@ -64,6 +64,8 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
 ._连接线 {
   font-family:'ArialMT', 'Arial';
   font-weight:400;
