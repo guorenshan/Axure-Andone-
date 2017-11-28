@@ -13,6 +13,11 @@
 }
 .placeholder {
 }
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
 ._图片 {
 }
 ._一级标题 {
@@ -61,5 +66,14 @@
   text-align:left;
 }
 ._文本段落 {
+  text-align:left;
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
   text-align:left;
 }
